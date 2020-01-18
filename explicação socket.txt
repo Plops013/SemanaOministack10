@@ -1,0 +1,8 @@
+Requisições HTTP
+
+Get, Post, Delete, put
+
+Requisições -> Frontend -> Backend -> Responsta Front-End
+
+Protocolo WebSocket
+ -> instalando socket.io
