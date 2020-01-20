@@ -10,3 +10,13 @@ comandos para rodar o projeto
 acessar a pagina backend e rodar -> yarn dev
 acessar a pagina web e rodar -> yarn start
 acessar a pagina mobile e rodar -> yarn start
+
+Antes de rodar acessar a pagina index no backend e configuar o servidor mongodb
+
+Ferramentas aprendidas
+MongoDB Atlas
+Insomnia
+MongoDB Compass
+
+Pacotes instalados durante o curso -->
+verificar em package.js
