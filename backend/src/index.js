@@ -9,7 +9,7 @@ const app = express();
 const server = http.Server(app);
 setupWebsocket(server);
 
-mongoose.connect('mongodb+srv://fabio:1004@cluster0-j2bff.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://nome:senha@cluster0-j2bff.mongodb.net/week10?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useCreateIndex: true,
   useUnifiedTopology: true,
